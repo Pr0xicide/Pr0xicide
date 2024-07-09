@@ -1,16 +1,39 @@
-## Hi there 👋
+# Jayvin Duong
 
-<!--
-**Pr0xicide/Pr0xicide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently both a software developer and a growing artist.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>JavaScript, HTML, CSS, C#</td>
+  </tr>
+  <tr>
+    <td><strong>Technologies</strong></td>
+    <td>Node.js, React.js, Redux, Jest, TailwindCSS, Express.js, MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Platforms</strong></td>
+    <td>Veeva Vault, Veeva CRM, Salesforce (SFDC)</td>
+  </tr>
+</table>
+
+## Certifications
+
+### Veeva
+
+- Approved Email Business
+- Approved Email Technical
+- CLM Business
+- CLM Technical
+- Review and Approval
+
+
+## Hobbies/Interests
+
+- Comic books
+- Drawing/Sketching
+- Gaming
+- Home improvement
+- Programming
