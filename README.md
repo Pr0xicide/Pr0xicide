@@ -31,8 +31,8 @@ Currently both a software developer and a growing artist.
 
 ## Hobbies/Interests
 
-- Comic books
-- Drawing/Sketching
-- Gaming
-- Home automation
+- Art (drawing, painting)
 - Programming
+- Home automation
+- Comic books
+- Gaming
