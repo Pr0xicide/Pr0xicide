@@ -34,5 +34,6 @@ Currently both a software developer and a growing artist.
 - Art (drawing, painting)
 - Programming
 - Home automation
+- 3D printing
 - Comic books
 - Gaming
